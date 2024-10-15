@@ -2680,7 +2680,10 @@ input, select, textarea {
 			}
 
 /* Main */
-
+			#idx{
+				text-align: justify;
+				font-size: x-large;
+			}
 			#pt1{
 				text-align: justify;
 				font-size: x-large;

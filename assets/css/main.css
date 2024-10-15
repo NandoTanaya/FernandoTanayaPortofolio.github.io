@@ -2681,6 +2681,18 @@ input, select, textarea {
 
 /* Main */
 
+			#pt1{
+				text-align: justify;
+				font-size: x-large;
+			}
+			#pt2{
+				text-align: justify;
+				font-size: x-large;
+			}
+			#pt3{
+				text-align: justify;
+				font-size: x-large;
+			}
 	#main {
 		margin-left: 35%;
 		max-width: 54em;
